@@ -283,7 +283,7 @@
           }
         }),
         r("head").append(
-          '<style data-styles="leven-theme-skills-css" type="text/css">' +
+          '<style data-styles="Daniel-theme-skills-css" type="text/css">' +
             t +
             "</style>"
         );
